@@ -6,6 +6,8 @@ android {
     namespace "com.dong.tv"
     compileSdk 34
 
+    compileSdk 34
+
     defaultConfig {
         applicationId "com.dong.tv"
         minSdk 21
